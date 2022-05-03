@@ -1,5 +1,7 @@
 {
-"p1":"Anna",
-"p2":"Vadim",
-"p3":"Nina"
+firstName:"Lazutina",
+lastName:"Nina",
+age:"29",
+petBelies:"1",
+salare:"100000"
 }
